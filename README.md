@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Diogo Cardoso, currently a first year student of Computer Science and Engineering at Instituto Superior Técnico, Lisbon, Portugal.
+I’m Diogo Cardoso, currently studying Computer Science and Engineering as a freshman at Instituto Superior Técnico, Lisbon, Portugal. 
 
 
 ## Tools and Languages
