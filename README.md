@@ -2,6 +2,7 @@
 
 I’m Diogo Cardoso, currently a freshman studying Computer Science and Engineering at Instituto Superior Técnico, Lisbon, Portugal. 
 
+<img align="center"  width="100px" src="https://media.tenor.com/images/d177259c992b3b9e004fffeb733b5e16/tenor.gif" />
 
 ## Tools and Languages
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][github]
