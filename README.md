@@ -20,4 +20,3 @@ I’m Diogo Cardoso, currently a freshman studying Computer Science and Engineer
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Card&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/D-Card
-[website]: (wip)
