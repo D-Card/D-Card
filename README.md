@@ -19,9 +19,9 @@ You can check my website for more info about me.
 <br />
 
 ---
-[![D-Card's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Card&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![D-Card's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Card&show_icons=true&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Card&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=D-Card&layout=compact&show_icons=true&langs_count=10&theme=dark&role=OWNER,ORGANIZATION_MEMBER)
 
 [github]: https://github.com/D-Card
  
