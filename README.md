@@ -17,13 +17,15 @@ You can check my website for more info about me.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
 [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />][github]
+[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />][github]
+
 
 <br />
 
 ---
-![D-Card's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Card&show_icons=true&theme=dark)
+[![D-Card's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=D-Card&include_orgs=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=D-Card&layout=compact&show_icons=true&langs_count=10&theme=dark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide=markdown,typescript,sourcepawn,shell,jupyter%20notebook)
+[![Top Languagess](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=D-Card&include_orgs=true&layout=compact&show_icons=true&langs_count=10&theme=dark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide=markdown,typescript,sourcepawn,shell,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/D-Card
  
